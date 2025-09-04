@@ -1,9 +1,9 @@
 # 💫 About Me:
 - ⚙️ I work in Robotics Software Development
 - 🤖 Experienced with ROS2, Nav2, MoveIt2, and Gazebo for building autonomous robotic systems.
-- 🔭 I’m currently working on integrating Robotic Manipulators with gestures.
+- 🔭 I’m currently working on integrating Robotic Manipulators with gesture-based programming.
 - 🌱 I’m currently learning Fluid Simulation.
-- 📡 Interested in AI, SLAM, and Human-Robot Interaction.
+- 📡 Interested in Control Systems, Autonomous Robotic Systems, Fluid Simulations and everything that moves under the sun.
 - 🛠️ I enjoy building from scratch — from embedded systems with Arduino & ESP8266 to advanced robot control pipelines.
 - 🎯 Passionate about solving problems in motion planning, control systems, and robotic perception.  
 - 🌍 Excited about collaboration and contributing to robotics communities.  
@@ -27,8 +27,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=exMachina316&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=exMachina316&theme=radical&hide_border=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=exMachina316&theme=radical&hide_border=true) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=exMachina316&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
